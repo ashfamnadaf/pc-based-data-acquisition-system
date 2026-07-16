@@ -4,7 +4,7 @@ main()
 {
 u32 pot,adval;
 u16 temp;
-float vtg,vout,tempr,a,temp1;
+float vtg,vout,a,temp1;
 int tempr;
 adc_init();
 uart0_init(9600);
